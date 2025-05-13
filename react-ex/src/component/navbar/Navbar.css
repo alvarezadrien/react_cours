@@ -1,0 +1,27 @@
+/* .navbar {
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: space-between;
+  height: 75px;
+  align-items: center;
+}
+
+h1 {
+  color: var(--secondary-color);
+  font-size: 2rem;
+}
+
+.navbar-links {
+  display: flex;
+  gap: 50px;
+  font-size: 25px;
+}
+
+.navbar-links a {
+  color: var(--secondary-color);
+}
+
+.navbar-links a:hover {
+  color: black;
+  transition: all 0.4s ease;
+} */
